@@ -2,6 +2,13 @@
 
 A .NET Web Application to analyze and visualize local demographic trends using data from Statistics Sweden (SCB).
 This project focuses on translating raw open data into actionable insights using clean architecture.
+And practise on these five design patterns:
+
+1.	Strategy
+	2.	Observer
+	3.	Factory Method
+	4.	Adapter
+	5.	Builder
 
 ## 🚀 Project Roadmap (MVP Strategy)
 
